@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/mixaceh/openyu-typescript.git"
   },
-  "author": "Mix Aceh",
+  "author": "mixaceh <mixaceh@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mixaceh/openyu-typescript/issues"
