@@ -1,4 +1,4 @@
-# openyu-typescript
+# OpenYu Typescript
 
 > A Typescript project
 
